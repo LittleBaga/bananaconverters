@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Direct link to the currency converter : https://zealous-gates-dd1f50.netlify.com
+
 
 Födelning:
 ILMA:
